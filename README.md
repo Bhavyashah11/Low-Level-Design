@@ -54,5 +54,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/Bhavyashah11/Low-Level-Design
 ```
-## Contribution
+## Contributing
 - Contributions are welcome! Fork the repository, create a branch, commit your changes, and open a pull request.
